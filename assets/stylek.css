@@ -1,0 +1,48 @@
+button.lens_button {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    color: #000;
+    font-size: 13px;
+    text-transform: capitalize;
+    font-weight: 600;
+    padding-left: 10px;
+    background: white;
+
+	background-color: ghostwhite;
+    box-shadow: initial;
+    padding: 7px 68px;
+    padding: 13px 38px px;
+    /* box-shadow: 5px 5px 15px rgba(0.1, 0.1, 0.1, 0.1); */
+    /* box-shadow: -1px 4px 7px rgba(0.1, 0.1, 2.1, 0.5); */
+    box-shadow: -1px 1px 6px rgba(0.1, 0.1, 2.1, 0.5);
+    padding-left: 34px;
+	color:black;
+/* 	font-family:'Montserrat'; */
+}
+button.lens_button:hover {
+    /* background-color: #5b00ff1a !important; */
+/*     background-color: #53a1c614 !important; */
+	background-color: #555555 !important;
+    transition: all 0.3s ease-in-out;
+    color: white;
+    text-decoration: none;
+    /* height: 110%; */
+    /* width: 110%; */
+    /* box-shadow: 5px 5px 15px rgba(23.1, -1.9, -1.9, 0.5) !important; */
+    box-shadow: 1px 10px 20px rgba(23.1, -1.9, -1.9, 0.5) !important;
+
+}
+span.lens_text {
+    padding-left: 10px;
+}
+h2.lens_header a
+{
+/*   color: red; */
+	margin-left: 90px;align-content
+}
+.lens_header
+{
+  font-size: 18px;
+}
